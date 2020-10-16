@@ -51,9 +51,9 @@ afterEvaluate {
             debug(MavenPublication) {
                 // Applies the component for the debug build variant.
                 from components.debug
-                groupId = 'com.github.donfyy.common'
+                groupId = 'com.github.donfyy'
                 artifactId = 'common'
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }
