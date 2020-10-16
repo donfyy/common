@@ -1,4 +1,4 @@
-package com.donfyy.common
+package com.donfyy.common_module
 
 import org.junit.Test
 

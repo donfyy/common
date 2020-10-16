@@ -1,4 +1,4 @@
-package com.donfyy.common.base
+package com.donfyy.common_module.base
 
 import androidx.fragment.app.Fragment
 
